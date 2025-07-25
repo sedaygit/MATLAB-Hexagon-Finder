@@ -4,7 +4,7 @@ This project demonstrates how to detect repeated hexagon shapes in a given image
 
 ## 📁 Files
 
-- `hexagon_detection.m`: Main MATLAB script.
+- `MATLAB-Hexagon-Finder.m`: Main MATLAB script.
 - `shape.bmp`: Source image that includes multiple hexagon shapes.
 - `hexagon.bmp`: The extracted hexagon template used for matching.
 
